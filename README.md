@@ -25,4 +25,6 @@ PIN,Name,Balance
 ## ▶️ How to Run
 
 1. Compile the files:
-   ```bash javac Main.java BankAccount.java
+   ```bash 
+javac Main.java BankAccount.java
+java Main
