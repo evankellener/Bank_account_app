@@ -26,4 +26,4 @@ PIN,Name,Balance
 
 1. Compile the files:
    ```bash javac Main.java BankAccount.java
-   ```bash java Main
+            java Main
